@@ -1,9 +1,9 @@
 
-<h1 align="center">Readme Genenerator</h1>
+<h1 align="center">Reademe Generator</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-- generates a readme.md markdown file
+- This is a Node.js application using inquirer to obtain user input and generate a readme.md file for repository
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,20 +13,18 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-- none
+- npm init npm install inquirer
 ## Usage
-- generating a readme.md file
+- Run this command at the root of the project to generate a readme.md node index.js
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license. 
 ## Contribution
-- glenluersman
+- To contribute to the project please create an issue
 ## Tests
-- no
+- 
 ## Questions
-- Find me on GitHub: [glenluersman](https://github.com/glenluersman)<br />
-<br />
-- Email me with any questions: glen.luersman@gmial.com<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/glenluersman/README-Generator)
+- Find me on GitHub: [glenluersman](https://github.com/glenluersman)
+- Email me with any questions: glen.luersman@gmail.com
     
