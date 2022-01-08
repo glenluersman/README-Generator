@@ -15,6 +15,9 @@
 - npm install
 ## Usage
 - Run this command in the root of the project to generate a readme.md file:  node index.js
+
+https://watch.screencastify.com/v/1ARDTXePPPvGmFbVIBKP
+
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
