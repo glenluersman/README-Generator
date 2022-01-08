@@ -11,7 +11,7 @@ function generateReadme(answers) {
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
@@ -30,6 +30,6 @@ This application is covered by the ${answers.license} license.
 - Find me on GitHub: [${answers.username}](https://github.com/${answers.username})
 - Email me with any questions: ${answers.email}
     `;
-  }
+}
   
   module.exports = generateReadme;

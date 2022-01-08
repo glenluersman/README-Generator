@@ -1,5 +1,5 @@
 
-<h1 align="center">Reademe Generator</h1>
+<h1 align="center">README Generator</h1>
   
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
@@ -9,21 +9,21 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-- npm init npm install inquirer
+- npm install
 ## Usage
-- Run this command at the root of the project to generate a readme.md node index.js
+- Run this command in the root of the project to generate a readme.md file:  node index.js
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license. 
 ## Contribution
-- To contribute to the project please create an issue
+- to contribute to the project please create an issue
 ## Tests
-- 
+- none
 ## Questions
 - Find me on GitHub: [glenluersman](https://github.com/glenluersman)
 - Email me with any questions: glen.luersman@gmail.com
